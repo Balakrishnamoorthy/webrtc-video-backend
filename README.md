@@ -3,7 +3,7 @@
 This is the signaling server used for the WebRTC video calling application.
 
 Live Server:
-https://your-render-link.onrender.com
+https://webrtc-video-backend-hbnb.onrender.com
 
 ---
 
