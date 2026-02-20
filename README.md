@@ -68,5 +68,5 @@ node server.js
 
 **Bala**
 
-GitHub: https://github.com/YOUR_USERNAME  
-Portfolio: https://your-portfolio-link.com
+GitHub: https://github.com/Balakrishnamoorthy
+Portfolio: https://balakrishnamoorthy-portfolio.netlify.app/
