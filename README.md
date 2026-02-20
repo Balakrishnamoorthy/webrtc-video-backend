@@ -64,14 +64,19 @@ node server.js
 
 ## 👨‍💻 Author
 
-![Profile](YOUR_PROFILE_IMAGE_LINK)
+<p align="center">
+  <img src="https://github.com/Balakrishnamoorthy.png" width="150" style="border-radius:50%" />
+</p>
 
-**Bala**
+<p align="center">
+  <b>Balakrishnamoorthy</b>
+</p>
 
-<<<<<<< HEAD
-GitHub: https://github.com/Balakrishnamoorthy
-Portfolio: https://balakrishnamoorthy-portfolio.netlify.app/
-=======
-GitHub: https://github.com/YOUR_USERNAME  
-Portfolio: https://your-portfolio-link.com
->>>>>>> f1b2e9f79a584c74ef9239c0bdd5bd7a39e0e989
+<p align="center">
+<a href="https://github.com/Balakrishnamoorthy">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://balakrishnamoorthy-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge" />
+  </a>
+</p>
