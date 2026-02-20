@@ -65,7 +65,7 @@ node server.js
 ## 👨‍💻 Author
 
 <p align="center">
-  <img src="https://github.com/Balakrishnamoorthy.png" width="150" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/u/162296650?v=4" width="150" style="border-radius:50%" />
 </p>
 
 <p align="center">
